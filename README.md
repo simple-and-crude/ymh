@@ -2,6 +2,8 @@
 
 本生成器以 JavaScript 编写，用以生成 Y.M.H. 恶语。
 
+[在 GitHub.io 上部署的示例](https://e0selmy4v.github.io/sc-ymh/)
+
 ## 恶语是什么
 
 顾名思义，恶语就是邪恶的语言。
