@@ -1,0 +1,51 @@
+body {
+	font-family: '微软雅黑';
+	padding: 0;
+	margin: 0;
+	background-color: aqua;
+	font-size: 0.8cm;
+	padding: 0.8cm;
+}
+
+.sbody {
+	background-color: #fff;
+	padding: 0.1cm;
+	box-shadow: 0px 0.1cm 0.4cm #000;
+	text-align: left;
+	padding-left: 1cm;
+	padding-right: 1cm;
+}
+
+input {
+	color: #444444;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000;
+	display: inline-block;
+	width: 5.5em;
+	margin-left: 0.2cm;
+	margin-right: 0.2cm;
+	font-size: 1em;
+}
+
+button {
+	display: inline-block;
+	background: #00ffff;
+	color: #444444;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000;
+	font-size: 1em;
+}
+
+#sresult {
+	overflow: auto;
+}
+
+.sen {
+	white-space: nowrap;
+}
+
+.air {
+	height: 0.1cm;
+}
